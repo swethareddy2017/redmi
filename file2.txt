@@ -2,5 +2,5 @@ this is file 2
 this is commit #2
 --------------------
 
-this is to see difference
+this is to see diff and diff tool
 ----------------------------
