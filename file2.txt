@@ -1,9 +1,7 @@
 this is file 2
 this is commit #2
 --------------------
-<<<<<<< HEAD
-=======
 
 this is to see diff and diff tool
 ----------------------------
->>>>>>> 28cc233... diff commit
+
